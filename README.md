@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 (AKA findthehead)
 -----------------
 
-A Security | Machine Learning | Devops Engineer
+const skills = Cybersecurity | Machine Learning | Devops
 
 * 🌍  I'm based in Erth
 * 🧠  I'm learning Attention, RLHF & Agentic Security
