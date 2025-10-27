@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Security | Machine Learning | Devops Engineer
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [fthdevops@proton.me](mailto:fthdevops@proton.me)
-* 🧠  I'm learning Pytorch, Transformer & AI Security
+* 🧠  I'm learning Attention, RLHF & Agentic Security
 
 ### Skills
 
