@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 const skills = Cybersecurity | Machine Learning | Devops
 
-* 🌍  I'm based in Erth
-* 🧠  I'm learning Attention, RLHF & Agentic Security
+* 🤖 <​|im_start|​>Securing AI and Event Driven Systems<​|im_sep|​>
 
 ### Skills
 
