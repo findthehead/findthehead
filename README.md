@@ -1,4 +1,4 @@
-`Hello! My Name is Subhay aka findthehead`
+# Hello! My Name is Subhay aka findthehead
 
 
 # 💻 Tech Stack:
